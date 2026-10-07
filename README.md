@@ -1,5 +1,7 @@
 # wallstego
 
+[![Audited checks](https://github.com/ceedot-rock/wallstego/actions/workflows/audited-checks.yml/badge.svg)](https://github.com/ceedot-rock/wallstego/actions/workflows/audited-checks.yml) [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
 Hide real messages inside ordinary text. Zero-width Unicode characters
 (U+200B, U+200C, U+200D) woven between words carry the payload; the visible
 text reads exactly the same.

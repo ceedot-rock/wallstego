@@ -1,0 +1,13 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Editors / OS
+.DS_Store
+.vscode/
+.idea/
+
+# Test / coverage artifacts
+.coverage
+htmlcov/
